@@ -61,6 +61,7 @@ $ npm run test:cov
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+![image](https://github.com/Fabio-Argona/vendas-online-backend-aula02/assets/128233610/b2fae96d-5979-4f2a-b7a5-85bab56b8beb)
 
 ## Stay in touch
 
